@@ -1,7 +1,6 @@
 const generateBtn = document.getElementById("GenerateButton");
 const input = document.getElementById("passwordField");
 let disablePassField = document.getElementById("passwordField").disabled = false;
-// disablePassField =true;
 
 const uppercase ="ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 const lowercase ="abcdefghijklmnopqrstuvwxyz";
